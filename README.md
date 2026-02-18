@@ -171,6 +171,7 @@
 
 ---
 优选订阅地址：
+
 Cm.Soso.Edu.Kg
 
 Sub.Cmliussss.Net 
@@ -186,5 +187,7 @@ ProxyIP.US.CMLiussss.Net
 ProxyIP.SG.CMLiussss.Net
 
 ProxyIP.JP.CMLiussss.Net
+
+https://www.youtube.com/watch?v=2lrf80h1MNk
 
 **如果您觉得项目对您有帮助，请给一个 Star 🌟，这是对我最大的鼓励！**
