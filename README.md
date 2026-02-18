@@ -170,38 +170,21 @@
 [![Stargazers over time](https://starchart.cc/cmliu/edgetunnel.svg?variant=adaptive)](https://starchart.cc/cmliu/edgetunnel)
 
 ---
+优选订阅地址：
+Cm.Soso.Edu.Kg
 
-## 🙏 特别鸣谢
-### 💖 赞助支持 - 提供云服务器维持[订阅转换服务](https://sub.cmliussss.net/)
-- [NodeLoc](https://www.nodeloc.com/)
-- [Alice](https://url.cmliussss.com/alice)
-- [EasyLinks](https://www.vmrack.net?ref_code=5Zk7eNhbgL7)
-- [ZMTO(VTEXS)](https://zmto.com/?affid=1532)
+Sub.Cmliussss.Net 
 
-### 🛠 开源代码引用
-- [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel)
-- [3Kmfi6HP/EDtunnel](https://github.com/6Kmfi6HP/EDtunnel)
-- [SHIJS1999/cloudflare-worker-vless-ip](https://github.com/SHIJS1999/cloudflare-worker-vless-ip)
-- [Stanley-baby](https://github.com/Stanley-baby)
-- [ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/tree/master/Clash/config)
-- [股神](https://t.me/CF_NAT/38889)
-- [Workers/Pages Metrics](https://t.me/zhetengsha/3382)
-- [白嫖哥](https://t.me/bestcfipas)
-- [Mingyu](https://github.com/ymyuuu/workers-vless)
-- [Alexandre Kojève](https://t.me/Enkelte_notif/784)
-- [eooce](https://github.com/eooce/Cloudflare-proxy)
-- [Sukka](https://ip.skk.moe/)
+Owo.O00o.Ooo
 
----
 
-## ⚠️ 免责声明
 
-1. 本项目（"edgetunnel"）仅供**教育、科学研究及个人安全测试**之目的。
-2. 使用者在下载或使用本项目代码时，必须严格遵守所在地区的法律法规。
-3. 作者 **cmliu** 对任何滥用本项目代码导致的行为或后果均不承担任何责任。
-4. 本项目不对因使用代码引起的任何直接或间接损害负责。
-5. 建议在测试完成后 24 小时内删除本项目相关部署。
+PROXYIP 订阅:
 
----
+ProxyIP.US.CMLiussss.Net
+
+ProxyIP.SG.CMLiussss.Net
+
+ProxyIP.JP.CMLiussss.Net
 
 **如果您觉得项目对您有帮助，请给一个 Star 🌟，这是对我最大的鼓励！**
